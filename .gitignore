@@ -74,6 +74,7 @@ crashlytics-build.properties
 # Ignore backed lighting
 /Assets/Scenes/MainCinematique/MainCinematique/*
 /Assets/Scenes/MainCinematique/MainCinematiqueSecondScene/*
+/Assets/Scenes/MainCinematique/MainCinematiqueThirdScene/*
 
 # Include lighting config
 !*.lighting*
