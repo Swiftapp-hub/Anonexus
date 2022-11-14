@@ -71,7 +71,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# Ignore backed lighting
+# Ignore backed lighting (Update this if you use it)
 /Assets/Scenes/MainCinematique/MainCinematique/*
 /Assets/Scenes/MainCinematique/MainCinematiqueSecondScene/*
 /Assets/Scenes/MainCinematique/MainCinematiqueThirdScene/*
