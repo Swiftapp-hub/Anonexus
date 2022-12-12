@@ -804,7 +804,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 718871a13f393f5429a10ce1035a303f, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 8098c2bbc730d3640916da1393bfffbe, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0
   m_Pitch: 1
@@ -1567,7 +1567,7 @@ RectTransform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 1361365181}
   m_RootOrder: 2
@@ -1698,7 +1698,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 691612929}
-  m_LocalRotation: {x: 0.004932437, y: 0.2777868, z: -0.0014263218, w: 0.96062905}
+  m_LocalRotation: {x: 0.0049324227, y: 0.2777868, z: -0.0014263176, w: 0.96062905}
   m_LocalPosition: {x: -35.86, y: 42.09, z: 2522.58}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -2795,6 +2795,8 @@ PlayableDirector:
     value: {fileID: 1854311222}
   - key: {fileID: -76948359147457144, guid: c3082766b2da021499ad4f9f1e0b42e9, type: 2}
     value: {fileID: 127035215}
+  - key: {fileID: -7301521955238424227, guid: c3082766b2da021499ad4f9f1e0b42e9, type: 2}
+    value: {fileID: 1593211387}
   m_ExposedReferences:
     m_References:
     - fdaf2fc9c08819046a38a6ef65dad8fa: {fileID: 24482741}
@@ -3333,7 +3335,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e48df275ad7cd745a376fa9b4f3f352, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: SecondMainCinematique
+  sceneName: MainCinematiqueSecondScene
 --- !u!1 &1854311219
 GameObject:
   m_ObjectHideFlags: 0
